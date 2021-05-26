@@ -28,3 +28,6 @@ We collected the data using whatsapp _(So as to make it more like a casual chat)
 | Love and Joy |                             Many many happy returns of the day🎉🎉                             |      🥳🎊🎉       |
 
 
+## Block Diagram
+
+![](1.jpeg)
