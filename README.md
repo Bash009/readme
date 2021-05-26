@@ -3,7 +3,7 @@
 We collected the data using whatsapp *(So as to make it more like a casual chat)* where we classified the data into 22 categories :
 
 
-|Types        |Example   |Glimpse of Emojis        
+|Categories        |Example   |Glimpse of Emojis        
 |    :---:    |   :---:  |    :---:    
 |Anger        |This is what you believed in since the start??😤😠|😠😤😡🤬 
 |Joy          |Summer Holidays are about to start😁|😄😅😁😆            
