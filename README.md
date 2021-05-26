@@ -3,7 +3,7 @@
 We collected the data using whatsapp *(So as to make it more like a casual chat)* where we classified the data into 22 categories :
 
 
-|Types        |Example   |Emoji        
+|Types        |Example   |Glimpse of Emojis        
 |    :---:    |   :---:  |    :---:    
 |Anger        |This is what you believed in since the start??😤😠|😠😤😡🤬 
 |Joy          |Summer Holidays are about to start😁|😄😅😁😆            
@@ -24,6 +24,9 @@ We collected the data using whatsapp *(So as to make it more like a casual chat)
 |Exhaustion   |This whole work pending is a waste of time😩|😵😓😫😩            
 |Sarcasm      |If your jokes do not land, stop making them😂😂|🤣😂😆       
 |Gratitude    |This is the best gift I had received till date😇🙏|😇🙏            
-|Link         |This is actual bitcoin paper https://bitcoin.org/bitcoin.pdf|       
+|Link         |This is an actual bitcoin paper https://bitcoin.org/bitcoin.pdf|       
 |Video Link   |Dembele is one of a kind https://www.youtube.com/watch?v=FuYQkX7V5fs&ab_channel=RafaelFootball|            
 |Love and Joy |Many many happy returns of the day🎉🎉|🥳🎊🎉           
+
+
+We were able to collect 2450 messages
