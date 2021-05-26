@@ -8,7 +8,7 @@ We collected the data using whatsapp *(So as to make it more like a casual chat)
 |Anger        |This is what you believed in since the start??😤😠|😠😤😡🤬 
 |Joy          |Summer Holidays are about to start😁|😄😅😁😆            
 |Fear         |The landing was very scary 😬😨|😱😳😬😨           
-|Saddness     |I am so sad for your loss😢🥺|😭😞🥺😩😢  
+|Sadness      |I am so sad for your loss😢🥺|😭😞🥺😩😢  
 |Motivation   |If they score four we will score five, Heads Up💪|💪✊      
 |Surprise     |The examination invigilator is a colonel😳😳|😲😳😱           
 |Appetizing   |Ramen with kimchi is the best 🤤🤤|😋🤤           
